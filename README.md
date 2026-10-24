@@ -66,14 +66,9 @@ Aşağıdaki uygulamalar aktif olarak **Google Play Store** üzerinde yayınlanm
 
 ## 💻 Açık Kaynak Projelerim (Public Repositories)
 
-Topluluğa ve geliştiricilere açık olan GitHub projelerim:
-
 - ☕ [**Cafe_Soft**](https://github.com/ahmetokan0101/cafe-soft) - Masaüstü (.NET C# WinForms) kafe, masa adisyon ve sipariş yönetim sistemi.
-- 🔐 [**HackLab**](https://github.com/ahmetokan0101/HackLab) - Siber güvenlik, etik hacking ve test materyalleri platformu.
-- 📺 [**Hazer-Tv**](https://github.com/ahmetokan0101/Hazer-Tv) - Çevrimiçi medya oynatıcı ve canlı yayın izleme uygulaması.
-- 🩺 [**Backend-neyimvar**](https://github.com/ahmetokan0101/Backend-neyimvar) - Neyim Var semptom kontrol ve sağlık asistanı backend API servisi.
-- 📅 [**fu-school-scheduler**](https://github.com/ahmetokan0101/fu-school-scheduler) - Fırat Üniversitesi ders programı ve takvim yönetim aracı.
-- 🗺️ [**van-rehberi-v2**](https://github.com/ahmetokan0101/van-rehberi-v2) - Van ili tarihi, turistik mekanları ve gezi rehberi web platformu.
+- 🗺️ [**Van Rehberi v1**](https://github.com/ahmetokan0101/van-rehberi) - Van ili tanıtım, turizm ve gezi rehberi web projesi.
+- 🏛️ [**Van Rehberi v2**](https://github.com/ahmetokan0101/van-rehberi-v2) - Gelişmiş Van ili şehir rehberi, turistik lokasyonlar ve gezi portalı.
 
 ---
 
