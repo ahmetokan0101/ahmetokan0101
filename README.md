@@ -1,11 +1,11 @@
 <div align="center">
 
 # ⚡ Ahmet Okan | HazeDev Studios
-### *Mobile App Developer • Full-Stack Engineer • Automation Craftsman*
+### *Mobile Application Developer • Full-Stack Engineer • Automation Craftsman*
 
 <p align="center">
   <a href="https://play.google.com/store/apps/dev?id=8443591393731960192">
-    <img src="https://img.shields.io/badge/Google_Play-HazeDev_Studios_Apps-01875F?style=for-the-badge&logo=google-play&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Play-HazeDev_Studios-01875F?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
   <a href="https://github.com/ahmetokan0101">
     <img src="https://img.shields.io/badge/GitHub-ahmetokan0101-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -23,17 +23,17 @@
 
 ## 📱 Google Play Store Canlı Uygulamalarım (Live Apps)
 
-Aşağıdaki uygulamalar aktif olarak **Google Play Store** üzerinde yayınlanmaktadır:
+Aşağıdaki uygulamalar aktif olarak **Google Play Store** üzerinde yayınlanmaktadır. Mağaza sayfalarına doğrudan aşağıdaki linklerden ulaşabilirsiniz:
 
-| Uygulama | Platform | Mağaza Linki |
-|---|---|---|
-| **Arrows Escape** | Flutter / Game | [![Google Play](https://img.shields.io/badge/Google_Play-İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazedev.arrowsescape) |
-| **Ezan Vaktim** | Flutter / Utility | [![Google Play](https://img.shields.io/badge/Google_Play-İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazeerdev.ezanvaktim) |
-| **Tabu App** | Flutter / Party Game | [![Google Play](https://img.shields.io/badge/Google_Play-İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tabuu_game.tabu_app) |
-| **QR Code Master** | Flutter / Tools | [![Google Play](https://img.shields.io/badge/Google_Play-İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazdev.qr_code_app) |
-| **Netmatik LGS** | Flutter / Education | [![Google Play](https://img.shields.io/badge/Google_Play-İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazdevstudios.netmatik_lgs.netmatik_lgs) |
+| Uygulama | Platform | Tür | Google Play Mağaza Bağlantısı |
+|:---|:---:|:---:|:---|
+| **Arrows Escape** | Flutter | Zeka & Bulmaca | [![Google Play](https://img.shields.io/badge/Google_Play-Hemen_İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazedev.arrowsescape) |
+| **Ezan Vaktim** | Flutter | Yaşam Tarzı / Vakitler | [![Google Play](https://img.shields.io/badge/Google_Play-Hemen_İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazeerdev.ezanvaktim) |
+| **Tabu App** | Flutter | Kelime & Parti Oyunu | [![Google Play](https://img.shields.io/badge/Google_Play-Hemen_İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.tabuu_game.tabu_app) |
+| **QR Code Master** | Flutter | Araçlar & Tarayıcı | [![Google Play](https://img.shields.io/badge/Google_Play-Hemen_İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazdev.qr_code_app) |
+| **Netmatik LGS** | Flutter | Eğitim & Net Takibi | [![Google Play](https://img.shields.io/badge/Google_Play-Hemen_İndir-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hazdevstudios.netmatik_lgs.netmatik_lgs) |
 
-👉 **[Tüm Uygulamaları Mağazada İncele](https://play.google.com/store/apps/dev?id=8443591393731960192)**
+👉 **[Tüm Uygulamaları HazeDev Studios Mağazasında Görüntüle](https://play.google.com/store/apps/dev?id=8443591393731960192)**
 
 ---
 
@@ -64,7 +64,20 @@ Aşağıdaki uygulamalar aktif olarak **Google Play Store** üzerinde yayınlanm
 
 ---
 
-## 📊 GitHub İstatistikleri (Stats)
+## 💻 Açık Kaynak Projelerim (Public Repositories)
+
+Topluluğa ve geliştiricilere açık olan GitHub projelerim:
+
+- ☕ [**Cafe_Soft**](https://github.com/ahmetokan0101/cafe-soft) - Masaüstü (.NET C# WinForms) kafe, masa adisyon ve sipariş yönetim sistemi.
+- 🔐 [**HackLab**](https://github.com/ahmetokan0101/HackLab) - Siber güvenlik, etik hacking ve test materyalleri platformu.
+- 📺 [**Hazer-Tv**](https://github.com/ahmetokan0101/Hazer-Tv) - Çevrimiçi medya oynatıcı ve canlı yayın izleme uygulaması.
+- 🩺 [**Backend-neyimvar**](https://github.com/ahmetokan0101/Backend-neyimvar) - Neyim Var semptom kontrol ve sağlık asistanı backend API servisi.
+- 📅 [**fu-school-scheduler**](https://github.com/ahmetokan0101/fu-school-scheduler) - Fırat Üniversitesi ders programı ve takvim yönetim aracı.
+- 🗺️ [**van-rehberi-v2**](https://github.com/ahmetokan0101/van-rehberi-v2) - Van ili tarihi, turistik mekanları ve gezi rehberi web platformu.
+
+---
+
+## 📊 GitHub Canlı İstatistikleri (Stats)
 
 <div align="center">
 
@@ -78,16 +91,6 @@ Aşağıdaki uygulamalar aktif olarak **Google Play Store** üzerinde yayınlanm
 </p>
 
 </div>
-
----
-
-## 💼 Öne Çıkan Projeler (Featured Repositories)
-
-- ☕ [**Cafe_Soft**](https://github.com/ahmetokan0101/cafe-soft) - Masaüstü (.NET C# WinForms) kafe, masa ve sipariş yönetim sistemi *(Public)*.
-- 🎯 [**Arrows Escape**](https://github.com/ahmetokan0101/arrows-escape) - Flutter ile geliştirilen minimalist yön & ok zeka bulmaca oyunu.
-- 🕌 [**Ezan Vaktim**](https://github.com/ahmetokan0101/ezan-vaktim-app) - Konum bazlı vakitler, ezan bildirimleri ve manyetik kıble pusulası.
-- ⚽ [**Ligova**](https://github.com/ahmetokan0101/ligova) - Canlı maç sonuçları, fikstür ve lig analiz platformu (Laravel & Vue).
-- 🔐 [**HackLab**](https://github.com/ahmetokan0101/hacklab-app) - Siber güvenlik eğitimleri ve interaktif test platformu.
 
 ---
 
